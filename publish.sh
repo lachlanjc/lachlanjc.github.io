@@ -7,4 +7,6 @@ rm build/*
 mv src/build/* .
 rm -rf src/build
 open .
-git status
+git add .
+git commit -am "$1"
+git push origin master
