@@ -1,0 +1,8 @@
+extends layout
+
+block prepend title
+  != h.inlineMd(page.title, {"sanitize": true}) + ' | '
+  
+block content
+  h1.mt1.center!= page.title
+  article.page!= typogr(page.html).typogrify()

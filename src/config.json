@@ -1,7 +1,7 @@
 {
   "output": "../",
   "locals": {
-    "url": "http://lachlanjc.github.io/",
+    "url": "http://lachlanjc.me/",
     "name": "Lachlan Campbell",
     "owner": "Lachlan Campbell"
   },
@@ -19,8 +19,5 @@
   "markdown": {
     "smartLists": true,
     "smartypants": true
-  },
-  "paginator": {
-    "perPage": 5
   }
 }

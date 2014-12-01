@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lachlan Campbell</title>
-    <atom:link href="http://lachlanjc.github.io//feed.xml" rel="self" type="application/rss+xml"></atom:link>
-    <link>http://lachlanjc.github.io/</link>
+    <atom:link href="http://lachlanjc.me//feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://lachlanjc.me/</link>
     <description></description>
     <pubDate>Sun, 30 Nov 2014 19:00:00 -0500</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
       <title>Hello, world!</title>
-      <link>http://lachlanjc.github.io//articles/hello-world/</link>
+      <link>http://lachlanjc.me//articles/hello-world/</link>
       <pubDate>Sun, 30 Nov 2014 19:00:00 -0500</pubDate>
-      <guid isPermaLink="true">http://lachlanjc.github.io//articles/hello-world/</guid>
+      <guid isPermaLink="true">http://lachlanjc.me//articles/hello-world/</guid>
       <description>&lt;p&gt;I’m &lt;a href=&quot;https://twitter.com/lachlanjc&quot;&gt;@lachlanjc&lt;/a&gt;, a human that likes to design and hack apps (&lt;a href=&quot;http://www.getnoodl.es/&quot;&gt;Noodles&lt;/a&gt; being my latest project). With time this blog will fill with thoughts, tutorials, ideas, and perhaps a few interviews. I will soon write about the tech behind it.&lt;/p&gt;
 &lt;p&gt;Enjoy!&lt;/p&gt;
 </description>
