@@ -3,10 +3,9 @@ extends layout
 block content
   each article in articles
     article
-      header.center
-        h1.mt2.mb0
-          a(href=article.url)= article.title
-        time.light-gray.h5.mb2.block= moment.utc(article.date).format('MMMM DD, YYYY')
+      h1.mt2.mb0.center
+        a(href=article.url)= article.title
+      time.light-gray.h5.mb2.block.center= moment.utc(article.date).format('MMMM DD, YYYY')
       section.content
         if article.intro.length > 0
           | !{ typogr(article.intro).typogrify() }

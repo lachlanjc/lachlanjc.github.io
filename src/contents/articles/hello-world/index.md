@@ -1,9 +1,9 @@
 ---
-title: Hello world!
-date: 2014-11-31
+title: Hello, world!
+date: 2014-12-01
 template: article.jade
 ---
 
-Hello world! I’m [@lachlanjc](https://twitter.com/lachlanjc), a middle schooler who likes to design and hack apps like [Noodles](http://www.getnoodl.es/). I spent an hour and built this blog with [Wintersmith](http://wintersmith.io/). It's hosted with [GitHub Pages](http://github.io/). With time this blog will become full of thoughts, tutorials, and ideas.
+I’m [@lachlanjc](https://twitter.com/lachlanjc), a human that likes to design and hack apps ([Noodles](http://www.getnoodl.es/) being my latest project). With time this blog will fill with thoughts, tutorials, ideas, and perhaps a few interviews. I will soon write about the tech behind it.
 
-Enjoy.
+Enjoy!
