@@ -21,7 +21,7 @@ body, .body {
 .grey { color: #ced2d6; }
 .dkgy { color: #6e7378; }
 
-nav a {
+nav a, .articles {
   text-decoration: none;
 }
 nav a:hover {
