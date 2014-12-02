@@ -8,5 +8,5 @@ block content
   each article in articles
     section.articles
       a(href=article.url).dark
-        h3.article-title.mt2.mb0= article.title
-        p.grey.article-time= moment.utc(article.date).format('MMMM DD, YYYY')
+        h3.section-header.mt2.mb0= article.title
+        small= moment.utc(article.date).format('MMMM DD, YYYY')
