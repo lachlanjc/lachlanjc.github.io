@@ -39,9 +39,9 @@ body {
 
 .pt-small { padding-top: 0.5rem; }
 
-header {
-  margin-bottom: 3.1rem;
-}
+header { margin-bottom: 3.1rem; }
+
+nav { border-top: 1px solid #ced2d6; }
 
 main {
   display: block;
@@ -53,9 +53,7 @@ main {
   margin: 0.5rem auto;
 }
 
-footer {
-  margin-top: 100px;
-}
+footer { margin-top: 100px; }
 
 /* TYPE */
 
@@ -70,12 +68,8 @@ body, .body {
 .blue { color: #0091ea; }
 .center { text-align: center; }
 
-nav a, .articles a {
-  text-decoration: none;
-}
-nav a:hover {
-  text-decoration: underline;
-}
+nav a, .articles a { text-decoration: none; }
+nav a:hover { text-decoration: underline; }
 
 h1, h2, h3, h4, h5, h6, nav, .text-header, .section-header, caption {
   font-weight: 300;
@@ -96,9 +90,7 @@ h1 {
   line-height: 47px;
 }
 
-p {
-  margin-bottom: 1.5rem;
-}
+p { margin-bottom: 1.5rem; }
 
 small {
   font: 400 13px/20px 'freight-text-pro', Georgia, serif;
@@ -127,4 +119,4 @@ button,input,select,textarea{font-family:inherit;font-size:100%}img{max-width:10
 .table{display:table;width:100%}.table-cell{display:table-cell;vertical-align:middle}.table-fixed{table-layout:fixed}
 a,a:visited{color:inherit;text-decoration:underline}a:hover{color:#0091ea}
 code,pre{background-color:#eee;border-radius:3px}
-hr{border:0;margin: 1.5em auto;} hr,.table-light td,.table-light th{border-bottom: 1px solid #ced2d6}
+hr{border:0;margin: 1.5rem auto;} hr,.table-light td,.table-light th{border-bottom: 1px solid #ced2d6}
