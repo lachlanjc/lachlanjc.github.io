@@ -7,8 +7,8 @@
   Dark grey: #6e7378
   ------------
   FONTS:
-  Sans-serif: 'aktiv-grotesk-std', 'Helvetica Neue', Helvetica, Arial, sans-serif
-  Serif: 'kepler-std', Georgia, serif
+  Sans-serif: 'proxima-nova', 'Helvetica Neue', Helvetica, Arial, sans-serif
+  Serif: 'freight-text-pro', Georgia, serif
   ------------
 */
 
@@ -35,6 +35,7 @@ body {
 .mb0 { margin-bottom: 0; }
 .mb-standard { margin-bottom: 1rem; }
 .mb-large { margin-bottom: 28px; }
+.ml-large { margin-left: 28px; }
 
 .pt-small { padding-top: 0.5rem; }
 
@@ -48,10 +49,8 @@ main {
 }
 
 .portrait {
-  width: 6.2rem;
-  float: right;
-  margin-left: 0.5rem;
-  margin-bottom: 0.5rem;
+  width: 10rem;
+  margin: 0.5rem auto;
 }
 
 footer {
@@ -61,7 +60,7 @@ footer {
 /* TYPE */
 
 body, .body {
-  font: 400 20px/31px 'kepler-std', Georgia, serif;
+  font: 400 20px/31px 'freight-text-pro', Georgia, serif;
   color: #37474f;
 }
 
@@ -78,14 +77,22 @@ nav a:hover {
   text-decoration: underline;
 }
 
+h1, h2, h3, h4, h5, h6, nav, .text-header, .section-header, caption {
+  font-weight: 300;
+  font-family: 'proxima-nova', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
 h1 {
-  font: 500 45px/70px 'aktiv-grotesk-std', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 45px;
+  line-height: 70px;
 }
 .section-header {
-  font: 300 18px/28px 'aktiv-grotesk-std', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  line-height: 28px;
 }
 .text-header {
-  font: 500 30px/47px 'aktiv-grotesk-std', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 30px;
+  line-height: 47px;
 }
 
 p {
@@ -93,7 +100,7 @@ p {
 }
 
 small {
-  font: 400 13px/20px 'kepler-std', Georgia, serif;
+  font: 400 13px/20px 'freight-text-pro', Georgia, serif;
   color: #6e7378;
   display: block;
   margin-bottom: 8px;
@@ -117,12 +124,12 @@ small {
     padding: 1.5em;
   }
 
-  h1 { font: 500 45px/47px 'aktiv-grotesk-std', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+  h1 { line-height: 47px !important; }
 
   .sm-hide { display: none; }
 }
 
-/* Tiny part of http://basscss.com */
+/* Tiny selection of http://basscss.com */
 button,input,select,textarea{font-family:inherit;font-size:100%}img{max-width:100%}ol,p,ul{margin-top:0;margin-bottom:1rem}ol,ul{padding-left:2rem}h1,h2,h3,h4,h5,h6{margin-top:0.75em;margin-bottom:0.5em}code,pre,samp{font-family:'Source Code Pro',Consolas,monospace;font-size:inherit}pre{margin-top:0;margin-bottom:1rem;overflow-x:scroll}blockquote{margin-top:2rem;margin-bottom:2rem;margin-left:0;padding-left:1rem;padding-right:1rem}blockquote,blockquote p{font-size:1.25rem;font-style:italic}
 .table{display:table;width:100%}.table-cell{display:table-cell;vertical-align:middle}.table-fixed{table-layout:fixed}
 a,a:visited{color:inherit;text-decoration:underline}a:hover{color:#0091ea}
