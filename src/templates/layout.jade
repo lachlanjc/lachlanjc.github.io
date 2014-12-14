@@ -3,24 +3,22 @@ html(lang='en')
   head
     block head
       meta(charset='utf-8')
-      title= locals.name
+      title
+        block title
+          = locals.name
       meta(name='viewport', content='width=device-width')
       link(rel='alternate', href=locals.url+'/feed.xml', type='application/rss+xml', title=locals.description)
-      script(src='http://use.typekit.net/oca8yet.js')
-      script try{Typekit.load();}catch(e){}
       link(rel='stylesheet', href='/css/main.css')
-        
+
   body.mx-auto
-    header(onclick='window.location="/"').container
-      p.mb-large.body Lachlan Campbell: Design, hacking, and middle school.
-      nav.mt-standard.pt-small.blue
-        a(href='/').mr-standard Home
-        a(href='/portfolio').mr-standard Portfolio
-        a(href='/contact') Contact
-    main.container
+    header.container
+      nav.right
+        a(href='/') Home
+        a(href='/about') About
+        a(href='/portfolio') Portfolio
+    main.container.mt-large
       block content
     footer.container
       hr
-      h4.section-header About
-      <small class="lg-col-6 md-col-9 sm-col-12">My name is Lachlan Campbell. I like to design and hack apps, currently <a href="http://www.getnoodl.es/">Noodles</a>. Still in middle school. You can also read about this site's <a href="/tech">tech</a>.</small>
+      <small>Hey, I'm Lachlan. I design and hack apps, currently <a href="http://www.getnoodl.es/">Noodles</a>. Still in middle school.</small>
       small &copy; #{ new Date().getFullYear() } Lachlan Campbell, unless indicated otherwise.

@@ -9,11 +9,22 @@
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
-      <title>Hello, world!</title>
+      <title>Good morning!</title>
+      <link>http://lachlanjc.me//articles/good-morning/</link>
+      <pubDate>Sun, 30 Nov 2014 19:00:00 -0500</pubDate>
+      <guid isPermaLink="true">http://lachlanjc.me//articles/good-morning/</guid>
+      <description>&lt;p&gt;Hey! I’m &lt;a href=&quot;https://twitter.com/lachlanjc&quot;&gt;@lachlanjc&lt;/a&gt;, a human that likes to design and hack apps. I’m into Rails, SCSS, efficiency, and typography. (&lt;a href=&quot;http://www.getnoodl.es/&quot;&gt;Noodles&lt;/a&gt; is my latest project, a simple cooking app.&lt;/p&gt;
+&lt;p&gt;With time, this blog will fill with thoughts (mainly on design), code (snippets, tutorials, and tales of crap I dared to ventured into), ideas (you know, if I have any), and perhaps a few interviews. My next post will probably detail what went into building this blog.&lt;/p&gt;
+&lt;p&gt;Enjoy!&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Good morning!</title>
       <link>http://lachlanjc.me//articles/hello-world/</link>
       <pubDate>Sun, 30 Nov 2014 19:00:00 -0500</pubDate>
       <guid isPermaLink="true">http://lachlanjc.me//articles/hello-world/</guid>
-      <description>&lt;p&gt;I’m &lt;a href=&quot;https://twitter.com/lachlanjc&quot;&gt;@lachlanjc&lt;/a&gt;, a human that likes to design and hack apps (&lt;a href=&quot;http://www.getnoodl.es/&quot;&gt;Noodles&lt;/a&gt; being my latest project). With time this blog will fill with thoughts, tutorials, ideas, and perhaps a few interviews. I will soon write about the tech behind it.&lt;/p&gt;
+      <description>&lt;p&gt;Hey! I’m &lt;a href=&quot;https://twitter.com/lachlanjc&quot;&gt;@lachlanjc&lt;/a&gt;, a human that likes to design and hack apps. I’m into Rails, SCSS, efficiency, and typography. (&lt;a href=&quot;http://www.getnoodl.es/&quot;&gt;Noodles&lt;/a&gt; is my latest project, a simple cooking app.&lt;/p&gt;
+&lt;p&gt;With time, this blog will fill with thoughts (mainly on design), code (snippets, tutorials, and tales of crap I dared to ventured into), ideas (you know, if I have any), and perhaps a few interviews. My next post will probably detail what went into building this blog.&lt;/p&gt;
 &lt;p&gt;Enjoy!&lt;/p&gt;
 </description>
     </item>

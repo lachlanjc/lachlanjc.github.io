@@ -1,12 +1,13 @@
 extends layout
 
 block content
-  h1.center Lachlan Campbell
-  <p>My name is Lachlan Campbell. I'm a hacker and designer for the web, working with typography, web design, and Rails. Currently working on <a href="http://www.getnoodl.es/">Noodles</a>, a simple app to help you cook better. Still in middle school.
-  img(alt="Portrait" src="http://d1fmxjrxw87eps.cloudfront.net/portrait.jpg").sm-hide.portrait.block
-  hr
+  section.bio.mb-large
+    img(alt="Portrait" src="http://d1fmxjrxw87eps.cloudfront.net/portrait-round.png").sm-hide.portrait.left
+    div.left.ml-large.mt-large
+      h2 Lachlan Campbell
+      p Hacker + designer for the web.
+  h2.mt-huge Articles
   each article in articles
-    section.articles.ml-large.block
-      a(href=article.url).dark
-        h3.text-header.mb0= article.title
-        p.dkgy= moment.utc(article.date).format('MM/D/YYYY')
+    a(href=article.url)
+      h3.mb0= article.title
+      p.dkgy= moment.utc(article.date).format('MM/D/YYYY')

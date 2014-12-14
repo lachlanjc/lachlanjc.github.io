@@ -1,8 +1,8 @@
 extends layout
 
 block prepend title
-  != h.inlineMd(page.title, {"sanitize": true}) + ' | '
+  != page.title
   
 block content
-  h1.mt1.center!= page.title
+  h1.mt-huge.center!= page.title
   article.page!= typogr(page.html).typogrify()
