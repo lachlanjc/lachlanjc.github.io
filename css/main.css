@@ -70,16 +70,13 @@ body {
 .dkgy { color: #6e7378; }
 .center { text-align: center; }
 
-a {
+a, a:visited {
+  color: #0091ea !important;
   text-decoration: none;
-  border-bottom: 1px solid #ced2d6;
 }
-a:hover {
-  color: #0091ea;
-  border-color: #0091ea;
-}
+a:hover, a:visited:hover { text-decoration: underline; }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, strong {
   font-weight: 400;
 }
 
