@@ -9,7 +9,7 @@
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
-      <title>“CSS on Noodles”</title>
+      <title>CSS on Noodles</title>
       <link>http://lachlanjc.me/articles/noodles-css/</link>
       <pubDate>Sun, 21 Dec 2014 19:00:00 -0500</pubDate>
       <guid isPermaLink="true">http://lachlanjc.me/articles/noodles-css/</guid>
@@ -73,10 +73,10 @@
 </description>
     </item>
     <item>
-      <title>Good morning!</title>
-      <link>http://lachlanjc.me/articles/good-morning/</link>
+      <title>Hello world!</title>
+      <link>http://lachlanjc.me/articles/hello-world/</link>
       <pubDate>Sun, 30 Nov 2014 19:00:00 -0500</pubDate>
-      <guid isPermaLink="true">http://lachlanjc.me/articles/good-morning/</guid>
+      <guid isPermaLink="true">http://lachlanjc.me/articles/hello-world/</guid>
       <description>&lt;p&gt;Hey! I’m &lt;a href=&quot;https://twitter.com/lachlanjc&quot;&gt;@lachlanjc&lt;/a&gt;, a human that likes to design and hack apps. I’m into Rails, SCSS, efficiency, and typography. (&lt;a href=&quot;http://www.getnoodl.es/&quot;&gt;Noodles&lt;/a&gt; is my latest project, a simple cooking app.&lt;/p&gt;
 &lt;p&gt;With time, this blog will fill with thoughts (mainly on design), code (snippets, tutorials, and tales of crap I dared to ventured into), ideas (you know, if I have any), and perhaps a few interviews. My next post will probably detail what went into building this blog.&lt;/p&gt;
 &lt;p&gt;Enjoy!&lt;/p&gt;

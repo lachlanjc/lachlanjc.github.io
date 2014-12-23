@@ -1,5 +1,5 @@
 ---
-title: “CSS on Noodles”
+title: "CSS on Noodles"
 date: 2014-12-22
 template: article.jade
 ---
