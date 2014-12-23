@@ -5,9 +5,18 @@
     <atom:link href="http://lachlanjc.me/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://lachlanjc.me</link>
     <description></description>
-    <pubDate>Sun, 14 Dec 2014 19:00:00 -0500</pubDate>
+    <pubDate>Sun, 21 Dec 2014 19:00:00 -0500</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>“CSS on Noodles”</title>
+      <link>http://lachlanjc.me/articles/noodles-css/</link>
+      <pubDate>Sun, 21 Dec 2014 19:00:00 -0500</pubDate>
+      <guid isPermaLink="true">http://lachlanjc.me/articles/noodles-css/</guid>
+      <description>&lt;p&gt;On my new &lt;a href=&quot;http://codepen.io/lachlanjc/blog&quot;&gt;CodePen Blog&lt;/a&gt;, I’ve published a new post entitled ‘CSS on Noodles.’ I write about the libraries, organization, mentalities, and statistics, so check it out.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://codepen.io/lachlanjc/blog/noodles-css&quot;&gt;The CSS of Noodles by @lachlanjc&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Noodles Announcements: Better editor, redesigned Cook Mode, and more.</title>
       <link>http://lachlanjc.me/articles/noodles-announcements/</link>
