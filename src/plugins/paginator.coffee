@@ -8,7 +8,7 @@ module.exports = (env, callback) ->
     articles: 'articles' # directory containing contents to paginate
     first: 'index.html' # filename/url for first page
     filename: 'page/%d/index.html' # filename for rest of pages
-    perPage: 2 # number of articles per page
+    perPage: 125 # number of articles per page
 
   # assign defaults any option not set in the config file
   options = env.config.paginator or {}
