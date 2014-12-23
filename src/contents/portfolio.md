@@ -10,11 +10,11 @@ Noodles is a simple app for all your recipes. I released it as my first app in N
 [Check out Noodles](http://www.getnoodl.es/)
 
 ## Helpful
-Helpful is a beautiful support tool I helped build on [Assembly](http://assembly.com). Help shouldn't hurt &mdash; Helpful is designed to be fast and straightforward to use. I released it along with some teammates in the summer of 2014. Built on Rails.
+Helpful is a simple and elegant support tool I helped build on [Assembly](http://assembly.com). Help shouldn't hurt &mdash; Helpful is designed to be fast and straightforward to use. I released it with some of my teammates in the summer of 2014. Built on Rails.
 
-[Check out Helpful](http://helpful.io/)
+[Try out Helpful](http://helpful.io/)
 
 ## Whiteboard
-Whiteboard is an in-progress Ruby gem I'm working on with [@nbashaw](https:/twitter.com/nbashaw) and [@ZackShapiro](https:/twitter.com/ZackShapiro). It's the fastest way to start building new Rails apps.
+Whiteboard is a Ruby gem I'm working on with [@nbashaw](https:/twitter.com/nbashaw) and [@ZackShapiro](https:/twitter.com/ZackShapiro). Whiteboad makes starting new Rails apps fast and easy, saving you the configuration you do every time.
 
 [Look at Whiteboard on GitHub](https://github.com/whiteboard-gem/whiteboard/)
