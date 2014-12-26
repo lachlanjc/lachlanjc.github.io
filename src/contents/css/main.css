@@ -59,7 +59,10 @@ main {
 
 .bio { height: 160px; }
 
-.portrait { width: 10rem; }
+.portrait {
+  border-radius: 50%;
+  width: 10rem;
+}
 
 /* TYPE */
 
