@@ -6,8 +6,8 @@
 </description>
     <link>http://lachlanjc.me/</link>
     <atom:link href="http://lachlanjc.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 09 Feb 2015 06:46:41 -0500</pubDate>
-    <lastBuildDate>Mon, 09 Feb 2015 06:46:41 -0500</lastBuildDate>
+    <pubDate>Mon, 09 Feb 2015 06:53:03 -0500</pubDate>
+    <lastBuildDate>Mon, 09 Feb 2015 06:53:03 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -21,6 +21,188 @@
         <pubDate>Mon, 02 Feb 2015 08:10:00 -0500</pubDate>
         <link>http://lachlanjc.me/2015/02/02/hello-world.html</link>
         <guid isPermaLink="true">http://lachlanjc.me/2015/02/02/hello-world.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Noodles Announcements: Collections, PDF Export, Embed, Real-time Search, and more.</title>
+        <description>&lt;p&gt;Hey! I’ve got more updates for &lt;a href=&quot;http://www.getnoodl.es/&quot;&gt;Noodles&lt;/a&gt; today.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#collections&quot;&gt;Collections&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#pdf&quot;&gt;PDF Export&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#embed&quot;&gt;Embed&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#turbo-search&quot;&gt;Real-time search&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#favorite-turbo&quot;&gt;Favorite recipes super quickly&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;a id=&quot;collections&quot;&gt;&lt;/a&gt;
+## Collections&lt;/p&gt;
+
+&lt;p&gt;If you’ve got a lot of soup recipes, salads, or anything else, you can now create a collection for them in Noodles to keep them together.&lt;/p&gt;
+
+&lt;p&gt;To create one, click the new “Collections” link in the navigation at the top of Noodles. You can add a title, description, and even a background photo.&lt;/p&gt;
+
+&lt;p&gt;Here’s how they look:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://draftin.com:443/images/26366?token=RSjg1RADJUgxW3tPr66_rzljIrivgHNrchE-F2yTjACSY_Ta-V7HNUPgutGI83mLOYi7KJtZ-LBub2weFc9m7Gc&quot; alt=&quot;collection-header.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To add a recipe to a collection, click the new “Add to Collection” button at the bottom of your recipe. Then, click on the collections you want the recipe to be in:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://draftin.com:443/images/26398?token=GmXrLnDzZ0bVq3G4BM2-SY8TUalOph2crDrXgh6hR1jTPGfsiTgyOQIsFkpZl76i7jCDj5x9pLFg8PjChGPAg2k&quot; alt=&quot;add-to-collection.png&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;a id=&quot;pdf&quot;&gt;&lt;/a&gt;
+## PDF Export&lt;/p&gt;
+
+&lt;p&gt;You can now export a PDF of any recipe on Noodles. To do so, click “Share” at the bottom of your recipe, then click on “Download PDF.”&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://draftin.com:443/images/26254?token=XPu_IUCms2yUx8BmUYVc3eXhqT2WzuXpKAKRqdNM3FPY7iITk2mqyW19ZtLUpxiJYslyHhIRZtMgcl4me0kG4tY&quot; alt=&quot;share-pdf.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here’s a recipe for Pasta &amp;amp; Bean Soup, exported as a PDF: http://cl.ly/ZUTE&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;a id=&quot;embed&quot;&gt;&lt;/a&gt;
+## Embed&lt;/p&gt;
+
+&lt;p&gt;If you have a website or food blog, this is a fantastic way to link to recipes. You can now embed any Noodles recipe right on your page with one quick line of code. To get your code, click on “Share” at the bottom of your recipe, and click “Embed on the Web.”&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://draftin.com:443/images/26255?token=dk6X51cQOLkrpGtZ5K5_SlbuczJs7wUsLc6EBmlZZ5B4UJ1p5m1KAS-ZBTOqnQVH9jipSD1NdfjDkDI55clC_F4&quot; alt=&quot;share-embed.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Then paste that code on your website, in the HTML. If you want to play with the embeds, check out &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Here are some examples of what the embeds look like:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://draftin.com:443/images/26400?token=7LZWeRis_gfb9uObTaFq_PT1SJnzPhs3fY7XWWCPoY6SQAXYrcP8UWkZ-_8Y71sw2wvBWzq4idZO1FXKb1YO6oA&quot; alt=&quot;embed-noimg.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://draftin.com:443/images/26401?token=DXJloL8hSr5iKVaoOPZKTxkqXSnBDH40JgC_5PJVj74lc6QcD2LxJKw2LK6bZcFuR3ocHC_6HSDqWsTu8i-lbqI&quot; alt=&quot;embed-img.png&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;a id=&quot;turbo-search&quot;&gt;&lt;/a&gt;
+## Real-time Search&lt;/p&gt;
+
+&lt;p&gt;Over the past week I’ve been re-engineering some core parts of Noodles, such as the recipe list. This allowed me to make search real-time: as you type, you see search results instantly. You can even search the recipes in a collection!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://draftin.com:443/images/26397?token=8O1ldgrUSUgBg_BaZvOrwwo5dx7--xqIettN8aI8sZopSMy5ccsHTVja_OB7KWFtNpMY_ljvY3O2FgGrtHdBJTM&quot; alt=&quot;turbo-search.png&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;a id=&quot;favorite-turbo&quot;&gt;&lt;/a&gt;
+## Favorite recipes super quickly&lt;/p&gt;
+
+&lt;p&gt;Previously you had to edit the recipe in order to favorite it. I disliked that, so I added a simple star at the right of the recipe:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://draftin.com:443/images/26363?token=8fvzU5QNpslTi7UuoUlZHoEzDLVKZdjZIWWAv4uMukw22SEplisYDJM75cMH8EmmGbLz2qBy2SeANi34rliHzRA&quot; alt=&quot;favorite-turbo.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Click it, and your recipe is favorited. Click it again to unfavorite. Much faster and more useful.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Enjoy!&lt;/p&gt;
+
+&lt;p&gt;If you need me, I’m &lt;a href=&quot;https://twitter.com/lachlanjc&quot;&gt;@lachlanjc&lt;/a&gt; on Twitter, or lachlan@getnoodl.es by email. There’s also an official Noodles Twitter page, &lt;a href=&quot;https://twitter.com/noodlesapp&quot;&gt;@noodlesapp&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;-Lachlan&lt;/p&gt;
+</description>
+        <pubDate>Fri, 30 Jan 2015 12:30:00 -0500</pubDate>
+        <link>http://lachlanjc.me/2015/01/30/noodles-announcements-4.html</link>
+        <guid isPermaLink="true">http://lachlanjc.me/2015/01/30/noodles-announcements-4.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Ingredient checklists, remember your experiences, and more.</title>
+        <description>&lt;p&gt;Hello again! Hot on the heels of &lt;a href=&quot;http://bit.ly/1rshTs0&quot;&gt;the last announcement&lt;/a&gt;, I’ve got more updates.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#checklists&quot;&gt;Ingredient checklists&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#remember&quot;&gt;What should you remember next time?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#notes&quot;&gt;Markdown for Notes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#cm-mobile&quot;&gt;Cook Mode on mobile&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#random&quot;&gt;Random recipe&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#design&quot;&gt;Design improvements&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;a id=&quot;checklists&quot;&gt;&lt;/a&gt;
+## Ingredient checklists&lt;/p&gt;
+
+&lt;p&gt;There’s a French phrase, &lt;a href=&quot;http://en.wikipedia.org/wiki/Mise_en_place&quot;&gt;mise en place&lt;/a&gt;, which refers to the preparation of all your ingredients before starting to cook. Doing a mise en place with Cook Mode is now much easier — there are checkboxes next to every ingredient. Click or tap an ingredient or the checkbox to cross it out, tap again to bring it back. Nothing is saved with the recipe, so each time you cook you’ll get a fresh start.&lt;/p&gt;
+
+&lt;p&gt;Here it is in action:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://draftin.com:443/images/25435?token=RUxA47Qgbsw1t0mGjKHUN-3qNgABO9WfnO6vieetM14Mtt-TI7rGCu2HRWOT7Z589SasGw6b2GyBspOazlbL_1A&quot; alt=&quot;Ingredient checklists demo&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;a id=&quot;remember&quot;&gt;&lt;/a&gt;
+## What should you remember next time?&lt;/p&gt;
+
+&lt;p&gt;Each time you prepare a recipe you gain experience with it, so I’ve made remembering your tricks and refinements easy.&lt;/p&gt;
+
+&lt;p&gt;Now, the last card in Cook Mode looks like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://draftin.com:443/images/25466?token=oaEZ43WjSovlQiyaJwjIqYRhWzqdo7DRbpglxbH1ud8eAor-lGttB-HPEf7J7bSfQPf5zzyKcYGM_DxH2SDf7Qs&quot; alt=&quot;remember.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;But of course, extra notes won’t help if you don’t look at them again. You can now see your notes underneath the ingredients in Cook Mode:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://draftin.com:443/images/25443?token=s0wRfO_MZRfkm2iD3lQLl-Yj51DAjFVmE1Wl-FtGfIQzv0DrD3CklxaTiHzFa8mtsJ6EJw5nsP16sUscfE5HP1c&quot; alt=&quot;notes-cook-mode.png&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;a id=&quot;notes&quot;&gt;&lt;/a&gt;
+## Markdown for Notes&lt;/p&gt;
+
+&lt;p&gt;If something &lt;strong&gt;really&lt;/strong&gt; went wrong, emphasize it in your notes with &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Markdown&lt;/a&gt;. If you haven’t used Markdown before, it’s an easy method of formatting with simple syntax. For example, typing &lt;code&gt;**bold**&lt;/code&gt; results in &lt;strong&gt;bold&lt;/strong&gt;. Learn more about Markdown &lt;a href=&quot;http://daringfireball.net/projects/markdown/syntax&quot;&gt;over here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The Markdown in Notes renders just as you’d expect:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://draftin.com:443/images/25444?token=wV1bITlT3zG76BJjZ59__BZXq_H8RBwEjM50t0xZkMZh_5Unkchs54XLS-ErWOeJMgmjtMZpjN8g5PV2ePYRDi4&quot; alt=&quot;notes-render.png&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;a id=&quot;cm-mobile&quot;&gt;&lt;/a&gt;
+## Cook Mode on mobile&lt;/p&gt;
+
+&lt;p&gt;Use Cook Mode elegantly on your phone or tablet, with cards and contents sized/stacked properly.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://draftin.com:443/images/25470?token=MPb6cwomk5Qba4V3GmTnCDWFuOkd0ZBoAZtzoAN15bwaOKBV6pIkJrBq3h14_fjosSnAvXJm9BLyr360Jj_Tv5E&quot; alt=&quot;cook-iphone.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://draftin.com:443/images/25471?token=jBQyyecGfGtKC2Q_E5Uvb39HZcszechqpew0lVG3_lpAy3a9EdjykIuHhFJJ7PFUBxUgyQ72JO56AD_bACX-2Yk&quot; alt=&quot;cook-ipad.png&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;a id=&quot;random&quot;&gt;&lt;/a&gt;
+## Random recipe&lt;/p&gt;
+
+&lt;p&gt;When you can’t decide what to make, click the lightning bolt on your recipes page to open up a random recipe. Brownies for dinner are not recommended :)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://draftin.com:443/images/25472?token=FZcOnqf4kaTldaofY_-w6Utt6OVD599h-Z-elLqZ2gyy1dRUqDqRKb5kasIveWjueN2YFvE5GQZa_A6BQfFUYNQ&quot; alt=&quot;random-bolt.png&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;a id=&quot;design&quot;&gt;&lt;/a&gt;
+## Design improvements
+Across the whole app I’ve made some nice improvements to the design, such as photos. Here’s a quick peek:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://draftin.com:443/images/25473?token=h75tujMgi4lH-zKGEYVryVwdgnFUZzprbpB8XOqZ1aeRzi2x8K15iRjj-pQBBODwSJYT9M323d5zlVALkyg7FjI&quot; alt=&quot;photos.png&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Enjoy, and thank you! We’re continuing to grow, but if you’re really enjoying Noodles it’d be great if you told your friends. If you’re making a big feast over the holidays, store your recipes in Noodles to make cooking easier.&lt;/p&gt;
+
+&lt;p&gt;As always, you can reach out to me on Twitter:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/lachlanjc&quot;&gt;&lt;strong&gt;@lachlanjc&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;or through the official Noodles account:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/noodlesapp&quot;&gt;&lt;strong&gt;@noodlesapp&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;And I’m always available by email, just &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#108;&amp;#097;&amp;#099;&amp;#104;&amp;#108;&amp;#097;&amp;#110;&amp;#064;&amp;#103;&amp;#101;&amp;#116;&amp;#110;&amp;#111;&amp;#111;&amp;#100;&amp;#108;&amp;#046;&amp;#101;&amp;#115;&quot;&gt;&amp;#108;&amp;#097;&amp;#099;&amp;#104;&amp;#108;&amp;#097;&amp;#110;&amp;#064;&amp;#103;&amp;#101;&amp;#116;&amp;#110;&amp;#111;&amp;#111;&amp;#100;&amp;#108;&amp;#046;&amp;#101;&amp;#115;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;-Lachlan&lt;/p&gt;
+</description>
+        <pubDate>Sat, 27 Dec 2014 06:30:00 -0500</pubDate>
+        <link>http://lachlanjc.me/2014/12/27/noodles-announcements-3.html</link>
+        <guid isPermaLink="true">http://lachlanjc.me/2014/12/27/noodles-announcements-3.html</guid>
         
         
       </item>

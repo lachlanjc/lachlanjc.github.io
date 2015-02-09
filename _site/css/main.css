@@ -273,7 +273,7 @@ h6,
 /* Basscss Button Gray */
 .button-gray {
   color: white;
-  background-color: #777;
+  background-color: #666d78;
   border-radius: 3px;
   transition-duration: .1s;
   transition-timing-function: ease-out;
@@ -296,7 +296,7 @@ h6,
 
 /* Basscss Button Light Gray */
 .button-light-gray {
-  color: #666d78;
+  color: #4b5058;
   background-color: #ccc;
   border-radius: 3px;
   transition-duration: .1s;
@@ -340,14 +340,14 @@ h6,
 
 .button-nav-light:active,
 .button-nav-light.is-active {
-  color: #666d78; }
+  color: #4b5058; }
 
 /* Basscss Button Nav Tab */
 .button-nav-tab {
   margin-bottom: -1px;
   border-radius: 3px 3px 0 0;
   border-bottom: 1px solid #ccc;
-  color: #666d78;
+  color: #4b5058;
   background-color: transparent; }
 
 .button-nav-tab:hover {
@@ -386,7 +386,7 @@ h6,
 
 /* Basscss Color Base */
 body {
-  color: #666d78;
+  color: #4b5058;
   background-color: white; }
 
 a {
@@ -533,7 +533,7 @@ hr {
 
 /* Basscss Button Light Gray */
 .button-light-gray {
-  color: #666d78;
+  color: #4b5058;
   background-color: #ccc;
   border-radius: 3px;
   transition-duration: .1s;
@@ -561,7 +561,7 @@ hr {
 
 .button-nav-light:active,
 .button-nav-light.is-active {
-  color: #666d78; }
+  color: #4b5058; }
 
 /* Basscss Button Nav Dark */
 .button-nav-dark {
@@ -618,7 +618,7 @@ hr {
   box-shadow: 0 0 2px rgba(50, 137, 210, 0.5); }
 
 .field-light:disabled {
-  color: #777;
+  color: #666d78;
   background-color: rgba(0, 0, 0, 0.125); }
 
 .field-light:read-only:not(select) {
@@ -660,7 +660,7 @@ hr {
 
 /* Basscss Colors */
 .dark-gray {
-  color: #666d78; }
+  color: #4b5058; }
 
 .white {
   color: white; }
@@ -669,7 +669,7 @@ hr {
   color: #3289d2; }
 
 .mid-gray {
-  color: #777; }
+  color: #666d78; }
 
 .light-gray {
   color: #ccc; }
@@ -687,7 +687,7 @@ hr {
   color: #ffcf00; }
 
 .bg-dark-gray {
-  background-color: #666d78; }
+  background-color: #4b5058; }
 
 .bg-white {
   background-color: white; }
@@ -696,7 +696,7 @@ hr {
   background-color: #3289d2; }
 
 .bg-mid-gray {
-  background-color: #777; }
+  background-color: #666d78; }
 
 .bg-light-gray {
   background-color: #ccc; }
@@ -1361,4 +1361,4 @@ hr {
   width: 120px; }
 
 footer a {
-  color: #585858; }
+  color: #4a4f57; }
