@@ -8,13 +8,10 @@ layout: default
 
 <div class="mt3">
   {% for post in site.posts %}
-    <div class="mb3">
-      <h2 class="m0 h3">
-        <a class="dark-gray" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h2>
-      <p class="sans mid-gray">{{ post.date | date: "%b %-d, %Y" }}</p>
-
-    </div>
+    <h2 class="m0 h3">
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </h2>
+    <p class="sans mid-gray mb3">{{ post.date | date: "%b %-d, %Y" }}</p>
   {% endfor %}
 </div>
 

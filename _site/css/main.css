@@ -220,10 +220,10 @@ h6,
 
 /* Basscss Button Blue Outline */
 .button-blue-outline {
-  color: #0076df;
+  color: #3289d2;
   background-color: transparent;
   border-radius: 3px;
-  border: 1px solid #0076df;
+  border: 1px solid #3289d2;
   transition-duration: .1s;
   transition-timing-function: ease-out;
   transition-property: box-shadow, background-color; }
@@ -231,25 +231,25 @@ h6,
 .button-blue-outline:hover,
 .button-blue-outline.is-active {
   color: white;
-  background-color: #0076df; }
+  background-color: #3289d2; }
 
 .button-blue-outline:active {
   box-shadow: inset 0 3px 3px 0 rgba(0, 0, 0, 0.25); }
 
 .button-blue-outline:focus {
   outline: none;
-  box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.5), 0 0 1px 4px rgba(0, 118, 223, 0.5); }
+  box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.5), 0 0 1px 4px rgba(50, 137, 210, 0.5); }
 
 .button-blue-outline:disabled,
 .button-blue-outline.is-disabled {
-  color: #0076df;
+  color: #3289d2;
   background-color: transparent;
   opacity: .5; }
 
 /* Basscss Button Blue */
 .button-blue {
   color: white;
-  background-color: #0076df;
+  background-color: #3289d2;
   border-radius: 3px;
   transition-duration: .1s;
   transition-timing-function: ease-out;
@@ -264,7 +264,7 @@ h6,
 
 .button-blue:focus {
   outline: none;
-  box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.5), 0 0 1px 4px rgba(0, 118, 223, 0.5); }
+  box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.5), 0 0 1px 4px rgba(50, 137, 210, 0.5); }
 
 .button-blue:disabled,
 .button-blue.is-disabled {
@@ -288,7 +288,7 @@ h6,
 
 .button-gray:focus {
   outline: none;
-  box-shadow: 0 0 0 2px white, 0 0 1px 4px rgba(0, 118, 223, 0.5); }
+  box-shadow: 0 0 0 2px white, 0 0 1px 4px rgba(50, 137, 210, 0.5); }
 
 .button-gray:disabled,
 .button-gray.is-disabled {
@@ -296,7 +296,7 @@ h6,
 
 /* Basscss Button Light Gray */
 .button-light-gray {
-  color: #333;
+  color: #666d78;
   background-color: #ccc;
   border-radius: 3px;
   transition-duration: .1s;
@@ -312,7 +312,7 @@ h6,
 
 .button-light-gray:focus {
   outline: none;
-  box-shadow: 0 0 0 2px white, 0 0 1px 4px rgba(0, 118, 223, 0.5); }
+  box-shadow: 0 0 0 2px white, 0 0 1px 4px rgba(50, 137, 210, 0.5); }
 
 .button-light-gray:disabled,
 .button-light-gray.is-disabled {
@@ -332,7 +332,7 @@ h6,
 
 /* Basscss Button Nav Light */
 .button-nav-light {
-  color: #0076df;
+  color: #3289d2;
   background-color: transparent; }
 
 .button-nav-light:hover {
@@ -340,14 +340,14 @@ h6,
 
 .button-nav-light:active,
 .button-nav-light.is-active {
-  color: #333; }
+  color: #666d78; }
 
 /* Basscss Button Nav Tab */
 .button-nav-tab {
   margin-bottom: -1px;
   border-radius: 3px 3px 0 0;
   border-bottom: 1px solid #ccc;
-  color: #333;
+  color: #666d78;
   background-color: transparent; }
 
 .button-nav-tab:hover {
@@ -386,11 +386,11 @@ h6,
 
 /* Basscss Color Base */
 body {
-  color: #333;
+  color: #666d78;
   background-color: white; }
 
 a {
-  color: #0076df;
+  color: #3289d2;
   text-decoration: none; }
 
 a:hover {
@@ -458,7 +458,7 @@ hr {
 /* Basscss Button Blue */
 .button-blue {
   color: white;
-  background-color: #0076df;
+  background-color: #3289d2;
   border-radius: 3px;
   transition-duration: .1s;
   transition-timing-function: ease-out;
@@ -473,7 +473,7 @@ hr {
 
 .button-blue:focus {
   outline: none;
-  box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.5), 0 0 1px 4px rgba(0, 118, 223, 0.5); }
+  box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.5), 0 0 1px 4px rgba(50, 137, 210, 0.5); }
 
 .button-blue:disabled,
 .button-blue.is-disabled {
@@ -481,10 +481,10 @@ hr {
 
 /* Basscss Button Blue Outline */
 .button-blue-outline {
-  color: #0076df;
+  color: #3289d2;
   background-color: transparent;
   border-radius: 3px;
-  border: 1px solid #0076df;
+  border: 1px solid #3289d2;
   transition-duration: .1s;
   transition-timing-function: ease-out;
   transition-property: box-shadow, background-color; }
@@ -492,18 +492,18 @@ hr {
 .button-blue-outline:hover,
 .button-blue-outline.is-active {
   color: white;
-  background-color: #0076df; }
+  background-color: #3289d2; }
 
 .button-blue-outline:active {
   box-shadow: inset 0 3px 3px 0 rgba(0, 0, 0, 0.25); }
 
 .button-blue-outline:focus {
   outline: none;
-  box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.5), 0 0 1px 4px rgba(0, 118, 223, 0.5); }
+  box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.5), 0 0 1px 4px rgba(50, 137, 210, 0.5); }
 
 .button-blue-outline:disabled,
 .button-blue-outline.is-disabled {
-  color: #0076df;
+  color: #3289d2;
   background-color: transparent;
   opacity: .5; }
 
@@ -533,7 +533,7 @@ hr {
 
 /* Basscss Button Light Gray */
 .button-light-gray {
-  color: #333;
+  color: #666d78;
   background-color: #ccc;
   border-radius: 3px;
   transition-duration: .1s;
@@ -549,7 +549,7 @@ hr {
 
 .button-light-gray:focus {
   outline: none;
-  box-shadow: 0 0 0 2px white, 0 0 1px 4px rgba(0, 118, 223, 0.5); }
+  box-shadow: 0 0 0 2px white, 0 0 1px 4px rgba(50, 137, 210, 0.5); }
 
 .button-light-gray:disabled,
 .button-light-gray.is-disabled {
@@ -561,7 +561,7 @@ hr {
 
 .button-nav-light:active,
 .button-nav-light.is-active {
-  color: #333; }
+  color: #666d78; }
 
 /* Basscss Button Nav Dark */
 .button-nav-dark {
@@ -614,8 +614,8 @@ hr {
 
 .field-light:focus {
   outline: none;
-  border-color: #0076df;
-  box-shadow: 0 0 2px rgba(0, 118, 223, 0.5); }
+  border-color: #3289d2;
+  box-shadow: 0 0 2px rgba(50, 137, 210, 0.5); }
 
 .field-light:disabled {
   color: #777;
@@ -646,7 +646,7 @@ hr {
 .radio-light:focus,
 .checkbox-light:focus {
   outline: none;
-  box-shadow: 0 0 2px rgba(0, 118, 223, 0.5); }
+  box-shadow: 0 0 2px rgba(50, 137, 210, 0.5); }
 
 /* Basscss Color Tables */
 .table-light th,
@@ -660,13 +660,13 @@ hr {
 
 /* Basscss Colors */
 .dark-gray {
-  color: #333; }
+  color: #666d78; }
 
 .white {
   color: white; }
 
 .blue {
-  color: #0076df; }
+  color: #3289d2; }
 
 .mid-gray {
   color: #777; }
@@ -687,13 +687,13 @@ hr {
   color: #ffcf00; }
 
 .bg-dark-gray {
-  background-color: #333; }
+  background-color: #666d78; }
 
 .bg-white {
   background-color: white; }
 
 .bg-blue {
-  background-color: #0076df; }
+  background-color: #3289d2; }
 
 .bg-mid-gray {
   background-color: #777; }
@@ -1361,4 +1361,4 @@ hr {
   width: 120px; }
 
 footer a {
-  color: #5e5e5e; }
+  color: #585858; }
