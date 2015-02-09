@@ -1,0 +1,13 @@
+<nav class="p2 sans flexer">
+
+  <a class="h2 bold inline-block dark-gray" href="{{ site.baseurl }}/">{{ site.title }}</a>
+
+  <div class="mt1 h4">
+    {% for page in site.pages %}
+      {% if page.title %}
+      <a class="px2 mid-gray" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+</nav>

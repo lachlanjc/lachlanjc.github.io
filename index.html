@@ -1,33 +1,21 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>Lachlan Campbell
-    </title>
-    <meta name="viewport" content="width=device-width">
-    <link rel="alternate" href="http://lachlanjc.me/feed.xml" type="application/rss+xml">
-    <link rel="stylesheet" href="/css/main.css">
-    <script>!function(g,s,q,r,d){r=g[r]=g[r]||function(){(r.q=r.q||[]).push(arguments)};d=s.createElement(q);q=s.getElementsByTagName(q)[0];d.src='//d1l6p2sc9645hc.cloudfront.net/tracker.js';q.parentNode.insertBefore(d,q)}(window,document,'script','_gs');_gs('GSN-128522-S');</script>
-  </head>
-  <body class="mx-auto">
-    <header class="container">
-      <nav class="right"><a href="/">Home</a><a href="/about">About</a><a href="/portfolio">Portfolio</a></nav>
-    </header>
-    <main class="container mt-large">
-      <section class="bio mb-large"><img alt="Portrait" src="http://d1fmxjrxw87eps.cloudfront.net/me.jpg" class="sm-hide portrait left mr-large">
-        <div class="left mt-large">
-          <h2>Lachlan Campbell</h2>
-          <p class="light">Hacker + designer for the web.</p>
-        </div>
-      </section>
-      <h2 class="mt-huge regular">Articles</h2>
-      <h3><a href="/articles/noodles-announcements-2/" class="bold">Noodles Announcements: Ingredient checklists, remember your experiences, and more.</a><span class="dkgy"> &ndash; December 26</span></h3>
-      <h3><a href="/articles/noodles-css/" class="bold">CSS on Noodles</a><span class="dkgy"> &ndash; December 22</span></h3>
-      <h3><a href="/articles/noodles-announcements-1/" class="bold">Noodles Announcements: Better editor, redesigned Cook Mode, and more.</a><span class="dkgy"> &ndash; December 15</span></h3>
-      <h3><a href="/articles/hello-world/" class="bold">Hello world!</a><span class="dkgy"> &ndash; December 1</span></h3>
-    </main>
-    <footer class="container">
-      <hr><small>Hey, I'm Lachlan. I design and hack apps, currently <a href="http://www.getnoodl.es/">Noodles</a>. Still in middle school.</small><small>&copy; 2014 Lachlan Campbell, unless indicated otherwise.</small>
-    </footer>
-  </body>
-</html>
+---
+layout: default
+---
+
+<img alt="Portrait of Lachlan" src="http://d1fmxjrxw87eps.cloudfront.net/me.jpg" class="mx-auto avatar block circle">
+
+{% include bio-text.html %}
+
+<div class="mt3">
+  {% for post in site.posts %}
+    <div class="mb3">
+      <h2 class="m0 h3">
+        <a class="dark-gray" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+      <p class="sans mid-gray">{{ post.date | date: "%b %-d, %Y" }}</p>
+
+    </div>
+  {% endfor %}
+</div>
+
+</div>

@@ -1,0 +1,10 @@
+# Site settings
+title: Lachlan Campbell
+email: hello@lachlanjc.me
+description: > # this means to ignore newlines until "baseurl:"
+  Lachlan Campbell is a designer and developer for the web.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://lachlanjc.me" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
