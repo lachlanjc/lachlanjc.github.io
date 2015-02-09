@@ -2,10 +2,10 @@
 
   <a class="h2 inline-block" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
-  <div class="mt1 h4">
+  <div class="mt1 ml1 h4">
     {% for page in site.pages %}
       {% if page.title %}
-      <a class="px2 mid-gray" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+      <a class="px1 mid-gray" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
       {% endif %}
     {% endfor %}
   </div>

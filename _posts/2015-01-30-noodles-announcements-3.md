@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ingredient checklists, remember your experiences, and more."
+title: "Noodles Announcements: Ingredient checklists, remember your experiences, and more."
 date: 2014-12-27 11:30:00
 ---
 
