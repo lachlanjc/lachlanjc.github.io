@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello world!"
-date:   2015-02-02 13:10:00
+date:   2014-12-01 10:10:10
 ---
 
 Hey! I’m [@lachlanjc](https://twitter.com/lachlanjc), a human that likes to design and hack apps. I'm into Rails, SCSS, efficiency, and typography. [Noodles](http://www.getnoodl.es/) is my latest project, a simple cooking app.
