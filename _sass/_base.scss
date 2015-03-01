@@ -1,4 +1,5 @@
 @import "basscss/basscss";
+@import "defaults";
 
 div,
 article,
@@ -17,4 +18,20 @@ input[type="email"],
 input[type="url"],
 input[type="password"] {
   box-sizing: border-box;
+}
+
+.ultra {
+  font-weight: $bold-font-weight;
+}
+
+.sans {
+  font-family: $heading-font-family;
+}
+
+.avatar {
+  width: 120px;
+}
+
+footer a {
+  color: darken($gray, 12%);
 }

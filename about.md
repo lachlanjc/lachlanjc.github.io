@@ -10,4 +10,4 @@ permalink: /about/
 
 Hey there! I'm Lachlan Campbell, or [@lachlanjc](https://twitter.com/lachlanjc). Though I'm still in middle school, I passionately design and build apps for the web. My most recent project is [Noodles](http://www.getnoodl.es/), a web app help people cook better.
 
-Check out my ["Portfolio"](/portfolio) as well.
+Check out my [Portfolio](/portfolio) as well.

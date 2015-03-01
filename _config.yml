@@ -10,4 +10,5 @@ url: "http://lachlanjc.me" # the base hostname & protocol for your site
 markdown: kramdown
 
 sass:
-  style: compressed
+  sass_dir: _sass
+  style: :compressed
