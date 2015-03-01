@@ -10,7 +10,7 @@ ___
 
 Hey! Thanks for checking out [**Noodles** (http://www.getnoodles)](http://www.getnoodl.es) If you haven't added a recipe yet, Noodles won't be useful to you — check out this recipe for Banana Cream Pie that I've shared:
 
-[>> **Banana Cream Pie**](http://app.getnoodl.es/s/152)
+[>> **Banana Cream Pie**](http://www.getnoodl.es/s/vaOAoAN)
 
 If you think it looks good, click the button at the bottom labeled "Save." You'll get your own copy of the recipe, which you can edit, cook, and share again.
 
