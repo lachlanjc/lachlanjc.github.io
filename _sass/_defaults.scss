@@ -4,7 +4,7 @@
 $aqua: #7fdbff;
 
 // $blue: #0074d9;
-$blue: #3289d2;
+$blue: #2196F3;
 $light-blue: saturate(lighten($blue, 18%), 8%);
 
 $navy: #001f3f;
@@ -22,10 +22,10 @@ $white: #fff;
 $silver: #a5abb3;
 $gray: #666d78;
 $black: #4b5058;
-$font-family: 'ff-tisa-web-pro', Georgia, serif;
-$line-height: 1.5;
-$heading-font-family: 'proxima-nova', 'Avenir', 'Helvetica Neue', sans-serif;
-$heading-font-weight: bold;
+$font-family: Georgia, serif;
+$line-height: 1.6;
+$heading-font-family: 'Avenir Next', 'Helvetica Neue', sans-serif;
+$heading-font-weight: 600;
 $heading-line-height: 1.25;
 $monospace-font-family: 'Source Code Pro', Consolas, monospace;
 $h1: 2.6rem;
@@ -34,7 +34,7 @@ $h3: 1.6rem;
 $h4: 1.25rem;
 $h5: 1rem;
 $h6: .6rem;
-$bold-font-weight: bold;
+$bold-font-weight: 600;
 $space-1: .5rem;
 $space-2: 1rem;
 $space-3: 2rem;

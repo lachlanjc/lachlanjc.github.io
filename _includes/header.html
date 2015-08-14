@@ -1,13 +1,13 @@
-<nav class="p2 sans flex">
+<header class="py3 sans md-col-8 lg-col-6 mx-auto">
 
-  <a class="h2 inline-block" href="{{ site.baseurl }}/">{{ site.title }}</a>
+  <a class="h2 bold" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
-  <div class="mt1 ml1 h4">
+  <nav class="mt1 h4">
     {% for page in site.pages %}
       {% if page.title %}
-      <a class="px1 mid-gray" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+      <a class="mr2 mid-gray" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
       {% endif %}
     {% endfor %}
-  </div>
+  </nav>
 
-</nav>
+</header>
