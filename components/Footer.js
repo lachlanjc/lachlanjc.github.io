@@ -2,7 +2,9 @@ import React from 'react'
 
 const style = {
   textAlign: 'center',
-  lineHeight: '.75'
+  lineHeight: '.75',
+  color: '#414e58',
+  padding: '0 1rem 2rem'
 }
 
 const Footer = () => (

@@ -1,12 +1,13 @@
 import React from 'react'
+import _ from 'lodash'
 
-class Link extends React.Component {
+const Link = (style) => (
   render () {
-    const style = {
-      color: 'white',
-      fontWeight: 600,
-      textDecoration: this.props.unDecorate ? 'none' : 'underline'
-    }
+    const style = _.merge({
+      color: '#338EDA',
+      fontWeight: 500,
+      textDecoration: 'none',
+    }, style)
     return (
       <a style={style} href={this.props.href}>
         {this.props.text || this.props.children}
