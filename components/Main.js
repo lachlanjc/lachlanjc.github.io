@@ -34,7 +34,7 @@ const Main = () => (
     </ul>
     <p>
       Check out my profiles on <Link href='https://github.com/lachlanjc'>GitHub</Link>, <Link href='https://twitter.com/lachlanjc'>Twitter</Link>,
-      and <Link href='https://instagram.com/lachlanjc'>Instagram</Link>.
+      and <Link href='https://instagram.com/lachlanjc'>Instagram</Link>, or <Link href='mailto:lachlan.campbell@icloud.com'>drop me an email</Link>.
       🌎
     </p>
   </main>
