@@ -9,11 +9,8 @@
     "type": "git",
     "url": "git+https://github.com/lachlanjc/lachlanjc.github.io.git"
   },
-  "author": "Lachlan Campbell <atlachlanjc@gmail.com> (https://lachlanjc.me/)",
+  "author": "Lachlan Campbell <lachlan.campbell@icloud.com> (https://lachlanjc.me/)",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/lachlanjc/lachlanjc.github.io/issues"
-  },
   "homepage": "https://lachlanjc.me/",
   "private": true,
   "babel": {
