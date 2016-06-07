@@ -7,9 +7,13 @@ const style = {
   padding: '0 1rem 2rem'
 }
 
+const pre = {
+    overflow: "hidden"
+}
+
 const Footer = () => (
   <footer style={style}>
-    <pre>
+    <pre style={pre}>  
       <p>© 2016 Lachlan Campbell</p>
       <p>:wq</p>
     </pre>

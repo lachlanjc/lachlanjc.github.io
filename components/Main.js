@@ -26,7 +26,7 @@ const Main = () => (
     </p>
     <ul style={{paddingLeft: '1.25rem'}}>
       <li>🌤 2016 — <Link href='https://twitter.com/lachlanjc/status/729983363134705664'>looking for an intership</Link> 😉</li>
-      <li>🌤 2015 — remote engineering intern at 🏢 <Link href='https://highrise.com/'>Highrise</Link></li>
+      <li>🌤 2015 — remote engineering intern at 🏢 <Link href='https://highrisehq.com/'>Highrise</Link></li>
       <li>🏆 2015 — won the <Link href='http://www.congressionalappchallenge.us/2015-winners/'>Congressional App Challenge</Link> for the PA-05 district <Link href='http://youtu.be/acttx0idnUE'>with Noodles</Link></li>
       <li>📬 <Link href='https://github.com/noahbuscher/N1-Taiga'>Taiga</Link> — open source contributor</li>
       <li>🔨 <Link href='https://github.com/assemblymade/meta'>Assembly</Link> — active community member and developer on the open source platform</li>
