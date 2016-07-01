@@ -1,16 +1,18 @@
+
 import React from 'react'
 
-const style = {
-  color: '#338EDA',
+import { Base } from 'rebass'
+
+const sx = {
   fontWeight: 500,
   textDecoration: 'none',
   display: 'inline'
 }
 
-const Link = props => (
-  <a style={style} href={props.href}>
-    {props.text || props.children}
-  </a>
-)
+const Link = ({ ...props }) => {
+  return (
+    <Base is='a' theme='primary' style={sx} {...props} />
+  )
+}
 
 export default Link

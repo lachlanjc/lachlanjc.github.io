@@ -1,16 +1,24 @@
+
 import React from 'react'
+
 import Head from './Head'
-import Header from './Header'
+import Intro from './Intro'
 import Main from './Main'
-import Footer from './Footer'
+import Nav from './Nav'
+import Footing from './Footing'
+
+import { Container } from 'rebass'
 
 const Root = ({ title }) => (
-  <html style={{ height: '100%' }}>
+  <html>
     <Head title='Lachlan Campbell' />
     <body>
-      <Header />
-      <Main />
-      <Footer />
+      <Nav />
+      <Container style={{ maxWidth: 768 }}>
+        <Intro />
+        <Main />
+        <Footing />
+      </Container>
     </body>
   </html>
 )
