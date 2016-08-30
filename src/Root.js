@@ -5,7 +5,7 @@ import Head from './Head'
 import Intro from './Intro'
 import Main from './Main'
 import Nav from './Nav'
-import Footing from './Footing'
+import Footer from './Footer'
 
 import { Container } from 'rebass'
 
@@ -17,8 +17,8 @@ const Root = ({ title }) => (
       <Container style={{ maxWidth: 768 }}>
         <Intro />
         <Main />
-        <Footing />
       </Container>
+      <Footer />
     </body>
   </html>
 )

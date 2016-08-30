@@ -21,7 +21,7 @@ const Intro = () => {
     }
   }
   return (
-    <Flex align='center' mt={2} py={3}>
+    <Flex align='center' pt={4} pb={2}>
       <Box className='shrink-none'>
         <Avatar />
       </Box>
@@ -38,7 +38,7 @@ const Intro = () => {
           </Heading>
         </Base>
         <Heading level={3} mt={1} mb={0} style={sx.intro}>
-          Web developer and designer. High schooler.
+          Web developer, designer, and high schooler.
         </Heading>
       </Box>
     </Flex>

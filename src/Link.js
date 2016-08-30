@@ -9,10 +9,8 @@ const sx = {
   display: 'inline'
 }
 
-const Link = ({ ...props }) => {
-  return (
-    <Base is='a' theme='primary' style={sx} {...props} />
-  )
-}
+const Link = ({ ...props }) => (
+  <Base is='a' theme='primary' style={sx} {...props} />
+)
 
 export default Link
