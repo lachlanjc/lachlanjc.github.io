@@ -24,7 +24,7 @@ const Head = ({ title }) => (
   <head>
     <meta charSet='utf-8' />
     <title>{title}</title>
-    <link href='https://npmcdn.com/basscss-basic@1.0.0/index.css' rel='stylesheet' />
+    <link href='https://unpkg.com/basscss-basic@1.0.0/index.css' rel='stylesheet' />
     <meta name='viewport' content='width=device-width, initial-scale=1' />
     <link rel='icon' type='image/png' href='/static/favicon-96x96.png' sizes='96x96' />
     <link rel='icon' type='image/png' href='/static/favicon-32x32.png' sizes='32x32' />
